@@ -89,7 +89,7 @@ Delivery delays are associated with higher customer churn.
 
 <img width="1599" height="899" alt="Executive Overview" src="https://github.com/NTMASKOSTALIN/Olist-Ecommerce-Dashboard/blob/main/Customer%20Retention%20&%20Churn.png?raw=true" />
 
-<img width="1599" height="899" alt="https://github.com/NTMASKOSTALIN/Olist-Ecommerce-Dashboard/blob/main/Revenue,%20Customer%20Value%20&%20Experience.png?raw=true" />
+<img width="1599" height="899" alt="Executive Overview" src="https://github.com/NTMASKOSTALIN/Olist-Ecommerce-Dashboard/blob/main/Revenue,%20Customer%20Value%20&%20Experience.png?raw=true" />
 
 <img width="1599" height="899" alt="Revenue   CLV" src="https://github.com/NTMASKOSTALIN/Olist-Ecommerce-Dashboard/blob/main/Revenue,%20Customer%20Value%20&%20Experience.png?raw=true" />
 
