@@ -87,17 +87,12 @@ Delivery delays are associated with higher customer churn.
 
 **Interactive Dashboard Development (Tableau):** Designed a **3-page interactive Tableau dashboard** featuring **Customer Retention & Churn, Revenue, Customer Value & Experience, Delivery Performance**. Developed **13 KPIs**. Implemented **interactive filters, calculated fields, parameters, and dashboard actions** to enable dynamic business performance analysis.
 
-<img width="1599" height="899" alt="Executive Overview" src="https://github.com/NTMASKOSTALIN/Olist-Ecommerce-Dashboard-/blob/main/Executive%20Overview-%201.png" />
+<img width="1599" height="899" alt="Executive Overview" src="https://github.com/NTMASKOSTALIN/Olist-Ecommerce-Dashboard/blob/main/Customer%20Retention%20&%20Churn.png?raw=true" />
 
-<img width="1599" height="899" alt="Customer Retention" src="https://github.com/NTMASKOSTALIN/Olist-Ecommerce-Dashboard-/blob/main/Customer%20Retention-%202.png" />
+<img width="1599" height="899" alt="https://github.com/NTMASKOSTALIN/Olist-Ecommerce-Dashboard/blob/main/Delivery%20Performance%20(1).png?raw=true" />
 
-<img width="1599" height="899" alt="Revenue   CLV" src="https://github.com/user-attachments/assets/9ab6d565-f2fd-4057-acf2-1b7f55f53a05" />
+<img width="1599" height="899" alt="Revenue   CLV" src="https://github.com/NTMASKOSTALIN/Olist-Ecommerce-Dashboard/blob/main/Revenue,%20Customer%20Value%20&%20Experience.png?raw=true" />
 
-<img width="1599" height="899" alt="Delivery Performance" src="https://github.com/user-attachments/assets/3fc67c61-3c30-426b-ae51-3cf667c4e6a2" />
-
-<img width="1599" height="899" alt="Customer Experience" src="https://github.com/NTMASKOSTALIN/Olist-Ecommerce-Dashboard-/blob/main/Customer%20Experience-%205.png" />
-
-<img width="1599" height="899" alt="Seller   Product" src="https://github.com/user-attachments/assets/fc314517-4ed9-4eea-a61e-a1f6880e8da8" />
 
 ## Key Insights:
 
